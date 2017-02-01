@@ -1,4 +1,4 @@
-# regular-expressions
-Presque tout sur les expressions régulières
+# expressions régulières
+Kit de survie : le minimum à connaître sur les expressions régulières
 
 
